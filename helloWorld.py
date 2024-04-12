@@ -8,7 +8,7 @@ def hello_name():
         return
 
     # Get the name from command line argument
-    #Add review
+    #Add review 2
     name = sys.argv[1]
 
     # Print the name to the console
